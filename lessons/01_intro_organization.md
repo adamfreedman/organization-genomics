@@ -15,9 +15,11 @@ Luckily, recording your computational experiments is even easier than recording 
 
 Your future self will thank you.
 
+[Data Organization Best Practices](https://github.com/datacarpentry/organization-genomics/blob/gh-pages/GoodBetterBest.md)
+[https://github.com/datacarpentry/organization-genomics/blob/gh-pages/GoodBetterBest.md](https://github.com/datacarpentry/organization-genomics/blob/gh-pages/GoodBetterBest.md)
 ##Exercise
 
-In this exercise we will setup a filesystem for the project we will be using over the next few days. We will also introduce you to some helpful shell commands/programs/tools:
+In this exercise we will setup a filesystem for the project we will be using over the next few days. We will also apply some of the shell commands/programs/tools learned in the previous lesson:
 
 * mkdir
 * history
