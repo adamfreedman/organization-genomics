@@ -15,7 +15,7 @@ Luckily, recording your computational experiments is even easier than recording 
 
 Your future self will thank you.
 
-[Data Organization Best Practices](https://github.com/datacarpentry/organization-genomics/blob/gh-pages/GoodBetterBest.md)
+[Data Organization Best Practices](https://github.com/datacarpentry/organization-genomics/blob/gh-pages/GoodBetterBest.md)<br>
 [https://github.com/datacarpentry/organization-genomics/blob/gh-pages/GoodBetterBest.md](https://github.com/datacarpentry/organization-genomics/blob/gh-pages/GoodBetterBest.md)
 ##Exercise
 
