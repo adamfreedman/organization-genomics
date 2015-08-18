@@ -41,10 +41,9 @@ this should give the result: '/home/dcuser'
 **Tip** If you were not in your home directory, the easiest way to get there is to enter the command *cd* - which always returns you to home. 
 2. Next, try making the following directories using the *mkdir* command
 ```
-dc_workshop
-dc_workshop/docs
-dc_workshop/data
-dc_workshop/results
+~/dc_workshop/docs
+~/dc_workshop/data
+~/dc_workshop/results
 ```
 3. Verify that you have created the directories;
 ```
