@@ -20,7 +20,10 @@ Your future self will thank you.
 
 ##Exercise
 
-In this exercise we will setup a filesystem for the project we will be using over the next few days. We will also apply some of the shell commands/programs/tools learned in the previous lesson:
+1. Turn to your neighbor and discuss naming conventions and data organization strategies you are considering for your project. Does this discussion highlight particular issues with your current strategy? Are there differences between your strategies
+that reflect differences in the type of data you are collecting?
+
+2. In this exercise we will setup a filesystem for the project we will be using over the next few days. We will also apply some of the shell commands/programs/tools learned in the previous lesson:
 
 * mkdir
 * history
@@ -39,7 +42,7 @@ Inspired by the guide below, we will start by create a directory that we can use
 $ pwd
 ```
 this should give the result: '/home/dcuser'
-**Tip:** Remember, when we give a command, rather than copying and pasting, just type it out. Also the '$' indicates we are at the command prompt, do not include that in your command. 
+**Tip** Remember, when we give a command, rather than copying and pasting, just type it out. Also the '$' indicates we are at the command prompt, do not include that in your command. 
 **Tip** If you were not in your home directory, the easiest way to get there is to enter the command *cd* - which always returns you to home. 
 
 2. Next, try making the following directories using the `mkdir` command
